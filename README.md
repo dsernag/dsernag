@@ -8,8 +8,9 @@ ___
 
 ### Projects
 
-* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/harvard.png" />](https://cs50.harvard.edu/x/2021/) CS50's Introduction Course to Computer Science: [Here](https://github.com/dsernag/Cs50x-2021) are the solutions to 
-* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/acamica.png" />](https://www.acamica.com/data-science) Data Scientist Acámica
+* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/harvard.png" />](https://cs50.harvard.edu/x/2021/) CS50's Introduction Course to Computer Science: [Here](https://github.com/dsernag/Cs50x-2021) are the solutions to all labs, problem set and final project.
+
+* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/acamica.png" />](https://www.acamica.com/data-science) Data Scientist Acámica: [Here](https://dsernag.github.io/Data_Science_Acamica/) are the four projects
 
 ___
 
