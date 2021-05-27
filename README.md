@@ -6,14 +6,15 @@ I'm Data Scientist with background in forest sciences and GIS specialist.
 If you want to get touch, here is my LinkedIn profile:   [<img width="25px" src="https://github.com/dsernag/dsernag/blob/main/logos/linkedIn_PNG32.png" />](https://www.linkedin.com/in/dsernag/)
 ___
 
-### Projects
+### Projects 📚
 
-* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/harvard.png" />](https://cs50.harvard.edu/x/2021/) CS50's Introduction Course to Computer Science: [Here](https://github.com/dsernag/Cs50x-2021) are the solutions to all labs, problem set and final project.
+* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/harvard.png"/>](https://cs50.harvard.edu/x/2021/) CS50's Introduction Course to Computer Science: [Here](https://github.com/dsernag/Cs50x-2021) are the solutions to all labs, problem sets and my final project.
 
-* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/acamica.png" />](https://www.acamica.com/data-science) Data Scientist Acámica: [Here](https://dsernag.github.io/Data_Science_Acamica/) are the four projects
+
+* [<img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/acamica.png" />](https://www.acamica.com/data-science) Data Scientist Acámica: [Here](https://dsernag.github.io/Data_Science_Acamica/) are the four projects developed to obtain my grade.
 
 ___
 
-### Languages
+### Programing Languages 🤓
 
 <img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/Python_logo_icon.png" /> <img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/R_logo.svg.png" /> <img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/sql.png" /> <img width="35px" src="https://github.com/dsernag/dsernag/blob/main/logos/github.png" />
