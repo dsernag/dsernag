@@ -13,6 +13,8 @@ ___
 
 * [<img width="45px" src="https://github.com/dsernag/dsernag/blob/main/logos/acamica.png" alt="AcámicaLogo"/>](https://www.acamica.com/data-science) Data Scientist Acámica: [Here](https://dsernag.github.io/Data_Science_Acamica/) are the four projects developed to obtain my grade.
 
+* [<img width="70px" src="https://github.com/dsernag/dsernag/blob/main/logos/misionTIC.png" alt="MisionTIC"/>](https://www.misiontic2022.gov.co/portal/) Mision TIC Tripulant: [Here](https://github.com/dsernag/MisionTICUSA2022) is a summary about challenges and exercises carried along the program.
+
 ___
 
 ### Programming languages 🤓
@@ -28,4 +30,3 @@ ___
 | :-: | :-: | :-: | :-: |
 | <img width="45px" src="https://github.com/dsernag/dsernag/blob/main/logos/office365.png" alt="Office365Logo"/> <img width="45px" src="https://github.com/dsernag/dsernag/blob/main/logos/powerbi.png" alt="poweBIlogo"/> <img width="45px" src="https://github.com/dsernag/dsernag/blob/main/logos/jupyterlab.png" alt="Jupyterlab"/> | <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/vscode.png" alt="VSCodeLogo"/> <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/netbeans.png" alt="NetBeansFigure"/> <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/androidstudio.png" alt="AndroidStudio"/> | <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/esri.png" alt="ESRI"/> <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/qgis.png" alt="QGIS"/> | <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/lightroom.png" alt="Lightroom"/> <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/photoshop.png" alt="Photoshop"/> <img width="50px" src="https://github.com/dsernag/dsernag/blob/main/logos/illustrator.png" alt="AdobeIllustrator"/>
 ___
-
