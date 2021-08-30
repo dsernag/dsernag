@@ -15,7 +15,7 @@ ___
 
 * [<img width="70px" src="https://github.com/dsernag/dsernag/blob/main/logos/misionTIC.png" alt="MisionTIC"/>](https://www.misiontic2022.gov.co/portal/) Mision TIC Tripulant: [Here](https://github.com/dsernag/MisionTICUSA2022) is a summary about challenges and exercises carried along the program.
 
-* [<img width="70px" src="https://github.com/dsernag/dsernag/blob/main/logos/dancecat.gif" alt="CatDancing"/>](https://www.codeabbey.com/) CodeAbbey Solutions: [Here](https://github.com/dsernag/CodeabbeySolutions) are some solutions in Groovy and Hy
+* [<img width="60px" src="https://github.com/dsernag/dsernag/blob/main/logos/dancecat.gif" alt="CatDancing"/>](https://www.codeabbey.com/) Code Abbey Solutions: [Here](https://github.com/dsernag/CodeabbeySolutions) are some solutions in Groovy and Hy.
 
 ___
 
